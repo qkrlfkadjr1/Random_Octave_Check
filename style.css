@@ -1,0 +1,90 @@
+a{
+	text-align:center;
+	color:black;
+	font-size:30px;
+	font-family: 'NanumBarunpen';
+	text-decoration-line: none;
+}
+
+h1{
+	padding:30px;
+	font-size:50px;
+	text-align:center;
+	margin:30px;
+	font-family: 'NanumBarunpen'; 
+	color:black;
+}
+
+h2{
+	padding-top:30px;
+	font-size:50px;
+	text-align:center;
+	margin:0px;
+	font-family: 'NanumBarunpen'; 
+	color:black;
+}
+h5{
+	padding-top:30px;
+	font-size:40px;
+	text-align:center;
+	margin:0px;
+	font-family: 'NanumBarunpen'; 
+	color:black;
+}
+
+ul{
+	list-style:none;
+	display:table;
+	padding:0;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+li{
+	float:left;
+	margin-left:30px;
+	text-align:center;
+
+}
+
+
+input{
+	font-size:30px;
+	padding:0px;
+	margin:0px;
+	font-family: 'NanumBarunpen'; 
+	color:black;
+	border:0;
+	outline:0;
+}
+
+textarea{
+	border:0;
+	font-family: 'NanumBarunpen'; 
+	font-size:30px;
+	padding:0px;
+	margin:0px;
+}
+
+
+
+@font-face {
+    font-family: 'Bazzi';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/Bazzi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Katuri';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_13@1.0/Katuri.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NanumBarunpen';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumBarunpen.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
